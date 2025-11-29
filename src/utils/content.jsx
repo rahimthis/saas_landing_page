@@ -93,14 +93,15 @@ const logos = [
   },
   {
     id: 6,
-    src: new URL("../assets/logos/Chase.webp", import.meta.url),
-    alt: "Chase Logo",
-  },
-  {
-    id: 7,
     src: new URL("../assets/logos/Visa.webp", import.meta.url),
     alt: "Visa Logo",
   },
+  {
+    id: 7,
+    src: new URL("../assets/logos/Chase.webp", import.meta.url),
+    alt: "Chase Logo",
+  },
+
   {
     id: 8,
     src: new URL("../assets/logos/Amazon.webp", import.meta.url),
