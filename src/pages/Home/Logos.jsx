@@ -16,8 +16,8 @@ const Logos = () => {
                 <li key={logo.id}>
                   <img
                     className="h-10 max-xl:h-8 max-lg:h-7"
-                    src={logo.src}
                     alt={logo.alt}
+                    src={logo.src}
                     key={logo.id}
                   />
                 </li>
