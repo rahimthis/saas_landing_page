@@ -34,7 +34,7 @@ export default function Footer() {
                    text-white w-full md:w-72 focus:outline-none"
                 />
 
-                <button className="px-6 py-3 rounded-xl bg-primary-500 text-primary-900 font-medium">
+                <button className="px-6 py-3 rounded-lg bg-primary-500 text-primary-1300 font-medium">
                   Subscribe
                 </button>
               </div>
